@@ -1,0 +1,12 @@
+
+
+.search-bar-container{
+    border: none;
+    height: inherit;
+}
+
+.search-bar{
+    border: none;
+    width: 100%;
+    height: 100%;
+}
